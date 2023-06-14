@@ -1,0 +1,66 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Space Mono', monospace;
+}
+
+.navbar-home {
+    background-color: #dc3545 !important;
+}
+
+.navbar-home .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-home .navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.carousel-content {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 400px;
+    margin-bottom: 50px;
+}
+
+/* .About{
+    text-align: center;
+} */
+
+h2
+ {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.75rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.for-img-txt{
+    margin-bottom: 50px;
+}
+
+.footer{
+    background-color: #dc3545;
+    color: white;
+    
+}
+
+
+h4{
+   
+    color: white;    
+}
+
+
+
+
+
+
+
